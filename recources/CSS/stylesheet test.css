@@ -1,7 +1,6 @@
 body {
     background-color: hsl(0, 0%, 100%);
-    max-width: 1200px;
-    min-width: 1200px;
+    max-width: 80%;
     margin: auto;
 }
 
@@ -17,6 +16,7 @@ header {
     justify-content: space-around;
     align-items: center;
     flex-wrap: wrap;
+   
 }
 #profielfoto {
     height: 140px;
